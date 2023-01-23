@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 void setup() {
-  // put your setup code here, to run once: test vd
+  // put your setup code here, test it
 }
 
 void loop() {
